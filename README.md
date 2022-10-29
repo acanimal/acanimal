@@ -1,6 +1,12 @@
 ### Hi there, I'm Antonio 👋
 
-Software Engineer and enthusiastic coder 💻 Ocasionally a tech writer 🖊
+Software engineer 💻 by vocation and hobby 🤓 Ocasionally a tech writer 🖊 Restless mind 🦄 I love programming as a tool to give wings to creativity 🤪 Technology is the means, not the end 🏁 I start many things and finish few. Frustrated musician 🎸 I like music that transmits emotions to me. I forget the sorrows doing sports 🏋️ ♂️
+
+- 🔭 I’m currently working at [Joppy](https://www.joppy.me) (a different platform to find tech jobs)
+- 🌱 I’m currently learning to be an entrepreneur and how to growing a company
+- 👯 I’m looking to collaborate on helping others making ideas into reallity
+- 💬 Ask me about whatever you want to know about anything related with my profession and my professional carrer
+- 📫 How to reach me: [@acanimal](https://twitter.com/acanimal)
 
 
 <!--
